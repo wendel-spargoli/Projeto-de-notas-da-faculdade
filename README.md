@@ -1,0 +1,5 @@
+# Projeto de notas da faculdade
+A ideia principal desse projeto é criar um sistema de média ponderada universitária em que iremos acrescentar um número de atividades diferentes (cada uma com uma parte da nota), para ao final, gerar: 
+1) quantos pontos são necessários tirar na prova para ficar na média; 
+2) Qual a média final da primeira unidade;
+3) A patir da nota na primeira unidade, qual deve ser a pontuação mínima para atingir a média da segunda unidade.
