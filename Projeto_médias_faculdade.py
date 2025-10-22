@@ -1,0 +1,11 @@
+# Projeto que visa calcular a nota do aluno nas duas unidades de cada matéria, bem como verificar quantos pontos são necessários, a partir da Unidade 1, para ser aprovado na unidade 2.
+
+# Provas das unidades:
+prova_primeira_unidade = float(input("Digite o quanto você tirou na prova: "))
+prova_segunda_unidade = float(input("Digite o quanto você tirou na prova: "))
+
+# Não se sabe ao certo quants atividades teremos, então o usuário deverá informar as atividades e quanto tirou em cada uma:
+
+
+# Média final:
+media_final = ((prova_primeira_unidade + atividades_primeira_unidade) * 4 + (prova_segunda_unidade + atividades_segunda_unidade) * 6) / 10
